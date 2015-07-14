@@ -1,1 +1,1 @@
-# java-getting-started
+# Innometrics Smart Focus App
