@@ -1,14 +1,14 @@
 {
-    "version_name": "Alchemy app",
+    "version_name": "<enter app name here>",
     "version_description": "",
     "pages": [{
-        "name": "Setting App",
+        "name": "App Settings",
         "type": "bundled",
         "content": "frontend/settings.html"
     }],
     "permissions": ["stream", "profile.update", "profile.read", "app.read.own"],
     "runtime": {
-        "language": "java",
-        "version": "1.7"
+        "language": "node",
+        "version": "0.10"
     }
 }
